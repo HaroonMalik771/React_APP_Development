@@ -1,3 +1,6 @@
+
+//How to use UseState
+
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View,Button, Linking } from 'react-native';
 import React , {useState} from 'react'
